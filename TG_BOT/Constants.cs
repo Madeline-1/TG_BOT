@@ -13,7 +13,7 @@ namespace TG_BOT
         public static string AddFavoriteAddress = "https://localhost:7030/api/songLyrics/AddToFavorites";
         public static string RemoveFavoriteAddress = "https://localhost:7030/api/songLyrics/RemoveFavorite?index=";
         public static string UpdateFavoriteAddress = "https://localhost:7030/api/songLyrics/UpdateFavorite?index=";
-        public static string ApiKey = "821ada0fcdmsh1b0d11162b8aeb6p1e23a7jsnb2a981386ca7";
+        public static string ApiKey = "МійКлюч";
         public static string ApiHost = "spotify23.p.rapidapi.com";
     }
 }
