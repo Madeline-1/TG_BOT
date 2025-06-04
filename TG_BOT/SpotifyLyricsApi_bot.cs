@@ -17,7 +17,7 @@ namespace TG_BOT
 {
     public class SpotifyLyricsApi_bot
     {
-        private readonly TelegramBotClient botClient = new TelegramBotClient("7641992170:AAGCL1oP6hnfCDJgRlrbuqRRLYH24P4vMQk");
+        private readonly TelegramBotClient botClient = new TelegramBotClient("МійТокен");
         private readonly CancellationToken cancellationToken = new CancellationToken();
         private readonly ReceiverOptions receiverOptions = new ReceiverOptions { AllowedUpdates = { } };
 
